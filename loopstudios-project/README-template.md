@@ -14,8 +14,8 @@ Agrega aquí una **captura de pantalla** del resultado final de tu landing page.
 
 ### 🔗 Enlaces del proyecto
 
-**Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/DulceMariaMartinezVazquez/Loopstudios-page)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+**Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/DulceMariaMartinezVazquez/Loopstudios)
+- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](loopstudios-gules-sigma.vercel.app)
 
 ---
 
