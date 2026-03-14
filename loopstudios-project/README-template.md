@@ -15,7 +15,7 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 ### 🔗 Enlaces del proyecto
 
 -**Repositorio en GitHub:** [Repositorio Git](https://github.com/DulceMariaMartinezVazquez/Loopstudios)
-- **Sitio desplegado:** [Deploy Vercel](loopstudios-gules-sigma.vercel.app/)
+-**Sitio Desplegado:** [Deploy Vercel](loopstudios-gules-sigma.vercel.app/)
 
 ---
 
