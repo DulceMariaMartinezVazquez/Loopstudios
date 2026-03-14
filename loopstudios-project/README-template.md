@@ -36,12 +36,11 @@ Lista las herramientas y tecnologías que utilizaste en el proyecto.
 ### 💡 Lo que aprendí
 Durante el desarrollo de este proyecto reforcé varios conceptos importantes de estructura web y diseño responsivo. Aprendí a estructurar una página utilizando componentes y a organizar mejor el código para mantenerlo limpio y reutilizable.
 
-También practiqué el uso de diseño responsiv0, adaptando el sitio tanto para escritorio como para móvil. Para ello utilicé la etiqueta picture, que permite cargar diferentes imágenes según el tamaño de pantalla:
+También practiqué el uso de diseño responsivo, adaptando el sitio tanto para escritorio como para móvil. Para ello utilicé la etiqueta picture, que permite cargar diferentes imágenes según el tamaño de pantalla:
 
-<picture>
-  <source media="(min-width:768px)" srcset="img desktop">
-  <img src="img movil" alt="Deep Earth">
-</picture>
+<picture> → Contenedor para mostrar imágenes responsivas.
+<source> → Define una imagen alternativa según una condición (por ejemplo, el tamaño de pantalla).
+<img> → Imagen que se mostrará por defecto si la condición no se cumple.
 
 Además reforcé el uso de Flexbox y Grid para crear layouts adaptables, como el grid de 4 columnas en escritorio y una sola columna en móvil para la sección de creaciones.
 
