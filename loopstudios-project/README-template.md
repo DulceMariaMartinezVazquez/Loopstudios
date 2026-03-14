@@ -58,11 +58,11 @@ Finalmente, aprendí la importancia de seguir una guía de estilos, respetando t
 
 ### 🚀 Áreas de mejora
 
--Mejorar el manejo del responsivo, especialmente en pantallas móviles.
--Practicar una mejor organización de componentes y estructura del proyecto.
--Implementar animaciones o transiciones para mejorar la experiencia del usuario.
--Practicar el uso de JavaScript para agregar más interactividad.
--Mejorar la organización del código para que sea más limpio y fácil de mantener.
+- Mejorar el manejo del responsivo, especialmente en pantallas móviles.
+- Practicar una mejor organización de componentes y estructura del proyecto.
+- Implementar animaciones o transiciones para mejorar la experiencia del usuario.
+- Practicar el uso de JavaScript para agregar más interactividad.
+- Mejorar la organización del código para que sea más limpio y fácil de mantener.
 
 
 ---
