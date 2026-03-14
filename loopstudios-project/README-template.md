@@ -8,21 +8,21 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 ## 📖 Descripción general
 
 ### 🧩 Vista previa del proyecto
-Agrega aquí una **captura de pantalla** del resultado final de tu landing page.  
+**captura de pantalla**  
 ![Captura pantalla Desktop](public/images/captura.png)
 ---
 
 ### 🔗 Enlaces del proyecto
 
-**Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/DulceMariaMartinezVazquez/Loopstudios)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](loopstudios-gules-sigma.vercel.app)
+-**Repositorio en GitHub:** [Repositorio Git](https://github.com/DulceMariaMartinezVazquez/Loopstudios)
+- **Sitio desplegado:** [Deploy Vercel](loopstudios-gules-sigma.vercel.app)
 
 ---
 
 ## 🧠 Proceso de desarrollo
 
 ### 🛠️ Tecnologías utilizadas
-Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo:
+Lista las herramientas y tecnologías que utilizaste en el proyecto.
 
 - [Astro](https://astro.build)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -39,8 +39,8 @@ Durante el desarrollo de este proyecto reforcé varios conceptos importantes de 
 También practiqué el uso de diseño responsiv0, adaptando el sitio tanto para escritorio como para móvil. Para ello utilicé la etiqueta picture, que permite cargar diferentes imágenes según el tamaño de pantalla:
 
 <picture>
-  <source media="(min-width:768px)" srcset="/images/desktop/image-deep-earth.jpg">
-  <img src="/images/mobile/image-deep-earth.jpg" alt="Deep Earth">
+  <source media="(min-width:768px)" srcset="img desktop">
+  <img src="img movil" alt="Deep Earth">
 </picture>
 
 Además reforcé el uso de Flexbox y Grid para crear layouts adaptables, como el grid de 4 columnas en escritorio y una sola columna en móvil para la sección de creaciones.
@@ -64,8 +64,9 @@ Finalmente, aprendí la importancia de seguir una guía de estilos, respetando t
 -Implementar animaciones o transiciones para mejorar la experiencia del usuario.
 -Practicar el uso de JavaScript para agregar más interactividad.
 -Mejorar la organización del código para que sea más limpio y fácil de mantener.
----
 
+
+---
 ### 📚 Recursos útiles
 
 - [Documentación de Astro](https://docs.astro.build)  
